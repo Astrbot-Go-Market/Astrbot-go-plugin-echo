@@ -17,7 +17,7 @@ package main
 import (
 	"strings"
 
-	sdk "github.com/WaterGodFurina/Astrbot-go-plugin-sdk"
+	sdk "github.com/WaterGodFurina/Astrbot-go-plugin-sdk/v2"
 )
 
 // plugin 是插件定义。提升为包级变量后，同一份源码既可用于 gRPC 运行方式
